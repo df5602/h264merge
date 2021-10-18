@@ -1,1 +1,3 @@
 # h264merge
+
+Experimental.
